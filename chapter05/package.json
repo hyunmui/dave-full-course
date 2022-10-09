@@ -1,11 +1,11 @@
 {
-  "name": "chapter03",
+  "name": "chapter05",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server",
-    "dev": "nodemon index"
+    "dev": "nodemon server"
   },
   "author": "",
   "license": "ISC",

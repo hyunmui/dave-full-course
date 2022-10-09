@@ -1,0 +1,3 @@
+20221009	14:55:59	f608ebff-b2c5-4fa3-9f7d-fd759f2f5fb4	Log event emitted!
+20221009	14:56:10	fb8ade01-a113-4a2d-a25f-5f5773177c27	Log event emitted!
+20221009	14:56:18	d179ede5-e2e7-40cc-9fdd-ac7e85473edb	Log event emitted!

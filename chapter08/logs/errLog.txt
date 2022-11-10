@@ -1,0 +1,2 @@
+20221110	22:03:57	04fd2f61-badd-4040-8b72-6432f12b4106	Error: ENOENT: no such file or directory, stat '/Users/hyunmui/workspaces/node/express_middleware/routes/views/index.html'
+20221110	22:04:14	9fefee10-43a2-44b5-83fe-4792fe10e955	Error: ENOENT: no such file or directory, stat '/Users/hyunmui/workspaces/node/express_middleware/routes/views/index.html'
